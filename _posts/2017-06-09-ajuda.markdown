@@ -1,8 +1,0 @@
----
-layout: post
-title: Preciso de ajuda!
-category: posts
----
-
-Acesse [esse link](https://ajudahackfest.herokuapp.com) para pedir/oferecer ajuda de qualquer tipo
-durante a maratona.

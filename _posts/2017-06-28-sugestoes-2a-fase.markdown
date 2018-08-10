@@ -2,6 +2,7 @@
 layout: post
 title: Sugestões para a 2a fase
 category: posts
+draft: true
 ---
 
 Algumas sugestões de gerência dos projetos na 2a fase

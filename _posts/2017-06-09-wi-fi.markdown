@@ -2,6 +2,7 @@
 layout: post
 title: Como me conectar?
 category: posts
+draft: true
 ---
 
 wi-fi
@@ -11,5 +12,5 @@ As rede são as **#ANID #HACKFEST 01**,  **#ANID #HACKFEST 02** ...
 
 A senha é **hackfestcc2017@**.
 
-Se seu equipamento é da apple, você precisa conectar em **hackfestAPPLE1** ou **hackfestAPPLE2. 
+Se seu equipamento é da apple, você precisa conectar em **hackfestAPPLE1** ou **hackfestAPPLE2.
 A senha é a mesma.
