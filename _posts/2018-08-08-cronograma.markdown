@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FAQ
+title: Cronograma
 category: posts
 ---
 
