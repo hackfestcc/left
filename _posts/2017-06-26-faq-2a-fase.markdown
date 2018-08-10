@@ -2,6 +2,7 @@
 layout: post
 title: FAQ da 2a fase
 category: posts
+draft: true
 ---
 
 Perguntas frequentes das equipes na 2a fase

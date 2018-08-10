@@ -2,6 +2,7 @@
 layout: post
 title: E se eu tiver dúvidas técnicas?
 category: posts
+draft: true
 ---
 
 Achando ajuda
