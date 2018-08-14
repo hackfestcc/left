@@ -4,23 +4,23 @@ title: Cronograma
 category: posts
 ---
 
-Este é o cronograma planejado para os 4 dias de evento.
+Este é o cronograma planejado para os 4 dias de evento:
 
-* Abertura 
+* Abertura
 
    A sessão solene de abertura do HackFest será no dia 16/08/2018 às 14:00h aberta aos inscritos e público em geral;
 
 * Credenciamento
 
-   O inscrito no HackFest deverá realizar credenciamento entre as 15:00h às 18:30h do dia 16/08/2018, levando consigo comprovante de inscrição e documento de identificação.
+   O inscrito no HackFest deverá realizar credenciamento entre as 15:00h às 18:30h do dia 16/08/2018, levando consigo um documento qualquer de identificação com foto.
 
 * Nivelamento
-   
-   Realização de palestra de nivelamento no dia 16/08/2018 sobre pontos centrais a serem considerados no período de desenvolvimento dos softwares.
 
-* Produção de Ideias
+   Realização de discussões de nivelamento no dia 16/08/2018 sobre pontos centrais a serem considerados no período de desenvolvimento dos projetos.
 
-   No dia 16/08/2018, será realizado um brainstorming para a criação de ideias que nortearão a criação de grupos e o desenvolvimento de software nos demais dias de evento;
+* Toró de Ideias
+
+   Na noite do dia 16/08/2018, será realizado um brainstorming para a criação de ideias que nortearão a criação de grupos e o desenvolvimento de software nos demais dias de evento;
 
 * Formação das Equipes
 
@@ -36,4 +36,4 @@ Este é o cronograma planejado para os 4 dias de evento.
 
 * Escolhas das equipes premiadas
 
-   Após a apresentação das propostas de produto, serão consideradas finalistas as 10 equipes melhores avaliadas (3 equipes da trilha de leis e mobilização e 7 equipes da trilha de desenvolvimento) pela comissão julgadora, de acordo com os termos do Edital. 
+   Após a apresentação das propostas de produto, serão premiados os 10 projetos melhor avaliados por votação dos participantes do evento e organização.

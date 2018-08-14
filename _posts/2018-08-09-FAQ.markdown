@@ -4,6 +4,10 @@ title: FAQ
 category: posts
 ---
 
+* *Do que preciso para o credenciamento?*
+
+  Basta um documento qualquer com foto.
+
 * *O que são as trilhas de Mudança via Aplicativo e Mudança via Leis e Mobilização?*
 
    A trilha Mudança via Aplicativos envolverá projetos de criação de aplicativos que fomentem a participação da população em questões importantes da sociedade, como transparência, eleições e cidadania; e
@@ -11,7 +15,7 @@ category: posts
    A trilha Mudança via Leis e Mobilização envolverá projetos para escrever projetos de lei de iniciativa popular e estruturar sua campanha de mobilização para angariar o apoio necessário para apresentação dessas leis.
 
 * *Como são formados as equipes?*
-   
+
     As equipes serão formadas durante o primeiro dia do evento. Elas devem ser compostas de 8 integrantes e não há regra para a sua formação. O importante
 é que todos estejam interessados na ideia escolhida!
 
