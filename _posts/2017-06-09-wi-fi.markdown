@@ -1,16 +1,19 @@
 ---
 layout: post
-title: Como me conectar?
+title: Qual a Wi-fi?
 category: posts
-draft: true
+draft: false
 ---
 
 wi-fi
 ---
 
-As rede são as **#ANID #HACKFEST 01**,  **#ANID #HACKFEST 02** ...
+Se o último número do seu CPF:
 
-A senha é **hackfestcc2017@**.
+* É 0-3: use a rede Hackfest-**cpf0a3**
+* É 4-6: use a rede Hackfest-**cpf4a6**
+* É 7-9: use a rede Hackfest-**cpf7a9**
 
-Se seu equipamento é da apple, você precisa conectar em **hackfestAPPLE1** ou **hackfestAPPLE2.
-A senha é a mesma.
+É bem importante que nos dividamos entre as redes, então por favor escolha a correta para o seu CPF.
+
+Nenhuma tem senha. A vida é boa em joão pessoa.
