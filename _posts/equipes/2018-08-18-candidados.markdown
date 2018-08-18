@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eu sei o que você fez no mandato passado (temporário)
+title: Candidados
 category: equipes
 ---
 
