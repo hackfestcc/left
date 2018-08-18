@@ -1,0 +1,18 @@
+---
+layout: post
+title: NaNota
+category: equipes
+---
+
+## Trilha Mudança via Tecnologia
+
+[//public.tableau.com/profile/helder.ronyer#!/](https://public.tableau.com/profile/helder.ronyer#!/)
+
+## Equipe
+
+*	Tatiana Saturno da Silva
+*	Hélder Ronyer Regis Alves
+
+## O Projeto
+
+Análise descritiva dos dados de notas fiscais.

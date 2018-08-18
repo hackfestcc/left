@@ -4,11 +4,12 @@ title: "Posts"
 ---
 
 <section class="content">
+  <h2>2018</h2>
   <br>
   <br>
   <ul class="listing">
     {% for post in site.posts %}
-      {% unless post.draft or post.category == 'equipes' %}
+      {% unless post.draft or post.category != 'equipes' %}
       <li>
         <span>{{ post.date | date: "%d / %m" }}</span> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
