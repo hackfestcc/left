@@ -6,7 +6,7 @@ category: equipes
 
 ## Trilha Mudança via Tecnologia
 
-[//github.com/arthurlustosa/naoserei_interrompida](https://github.com/arthurlustosa/naoserei_interrompida)
+[//github.com/lupanatoga](https://github.com/lupanatoga)
 
 ## Equipe
 
